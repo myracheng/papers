@@ -2,6 +2,10 @@
 My goal used to be read an academic paper every day. Odds are this repo is very outdated.
 
 ## Papers
+**Aug 28, 2020:** [Learning Differentiable Programs with Admissible Neural Heuristics](writeups/ShaEtAl20.md) A. Shah, E. Zhan, J. J. Sun, A. Verma, Y. Yue, S. Chaudhuri. 2020. [[pdf]](https://arxiv.org/abs/2007.12101)
+
+**Aug 28, 2020:** [Learning Differentiable Programs with Admissible Neural Heuristics](writeups/ShaEtAl20.md) A. Shah, E. Zhan, J. J. Sun, A. Verma, Y. Yue, S. Chaudhuri. 2020. [[pdf]](https://arxiv.org/abs/2007.12101)
+
 **Jun 11, 2018:** [Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.](writeups/RaoDau18.md) S. Rao, H. Daume. 2018. [[pdf]](https://arxiv.org/pdf/1805.04655.pdf)
 
 **Jun 10, 2018:** [An Alternative View: When Does SGD Escape Local Minima?](writeups/KleLiYua18.md) R. Kleinberg, Y. Li, Y. Yuan. 2018. [[pdf]](https://arxiv.org/pdf/1802.06175.pdf)

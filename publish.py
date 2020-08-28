@@ -22,7 +22,6 @@ def main():
 	f.close()
 
 	info_line = writeup[2]
-
 	if 'Author 1' in info_line:
 		raise ValueError('today.md has no new information.')
 
