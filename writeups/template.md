@@ -1,6 +1,6 @@
 # TITLE HERE
 
-Author 1, Author 2, Author 3. [FULL TITLE.](LINK HERE) Conference Year. 
+Author 1, Author 2, Author 3. [FULL TITLE.](LINK HERE) Conference Year. X cites.
 
 ## tl;dr
  - Takeaway 1
@@ -19,6 +19,5 @@ What is this paper showing? What are the contributions? What kind of paper is it
  - What are the main contributions?
  - Point to relevant long parts of paper that are unable to be summarized
 
-
-## Questions
+## QQ
 TODO

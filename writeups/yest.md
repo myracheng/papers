@@ -1,6 +1,6 @@
-# TITLE HERE
+# Imitation-Projected Programmatic Reinforcement Learning
 
-Author 1, Author 2, Author 3. [FULL TITLE.](LINK HERE) Conference Year. X cites.
+Abhinav Verma, Hoang M. Le, Yisong Yue, Swarat Chaudhuri. [Imitation-Projected Programmatic Reinforcement Learning.](https://arxiv.org/abs/1907.05431) NeurIPS 2019. 
 
 ## tl;dr
  - Takeaway 1
@@ -19,5 +19,6 @@ What is this paper showing? What are the contributions? What kind of paper is it
  - What are the main contributions?
  - Point to relevant long parts of paper that are unable to be summarized
 
-## QQ
+
+## Questions
 TODO
