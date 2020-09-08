@@ -2,14 +2,23 @@
 Thinking about + reading + tracking
 
 ## Papers
+**Sep 07, 2020:** [Towards causal benchmarking of bias in face analysis algorithms.](writeups/BalEtAl20.md) G. Balakrishnan, Y. Xiong, W. Xia, P. Perona. 2020. [[pdf]](https://arxiv.org/abs/2007.06570)
+
+**Sep 02, 2020:** [Imitation-Projected Programmatic Reinforcement Learning](writeups/VerEtAl1.md) A. Verma, H. M. Le, Y. Yue, S. Chaudhuri. 1. [[pdf]](https://arxiv.org/abs/1907.05431)
+
 **Aug 30, 2020:** [Programmatically Interpretable Reinforcement Learning.](writeups/VerEtAl78.md) A. Verma, V. Murali, R. Singh, P. Kohli, S. Chaudhuri. 78. [[pdf]](https://arxiv.org/abs/1804.02477)
 
 **Aug 28, 2020:** [Learning Differentiable Programs with Admissible Neural Heuristics](writeups/ShaEtAl20.md) A. Shah, E. Zhan, J. J. Sun, A. Verma, Y. Yue, S. Chaudhuri. 2020. [[pdf]](https://arxiv.org/abs/2007.12101)
 
 **July** Preference-based reinforcement learning (Christiano, Wirth, etc.)
 
+## To Be Read
+- Pietros paper on fairness
+- mirror descent
+-  DDPG, TRPO
+
 ## HTML symbols
-- [math](https://www.w3schools. com/charsets/ref_utf_math.asp)
+- [math](https://www.w3schools.com/charsets/ref_utf_math.asp)
 - [greek](https://www.w3schools.com/charsets/ref_utf_greek.asp)
 
 
