@@ -2,6 +2,8 @@
 Thinking about + reading + tracking
 
 ## Papers
+**Sep 10, 2020:** [HOUDINI: Lifelong Learning as Program Synthesis](writeups/ValEtAl18.md) L. Valkov, D. Chaudhari, A. Srivastava, C. Sutton, S. Chaudhuri. 2018. 22 cites. [[pdf]](https://arxiv.org/pdf/1804.00218.pdf)
+
 **Sep 07, 2020:** [Towards causal benchmarking of bias in face analysis algorithms.](writeups/BalEtAl20.md) G. Balakrishnan, Y. Xiong, W. Xia, P. Perona. 2020. [[pdf]](https://arxiv.org/abs/2007.06570)
 
 **Sep 02, 2020:** [Imitation-Projected Programmatic Reinforcement Learning](writeups/VerEtAl1.md) A. Verma, H. M. Le, Y. Yue, S. Chaudhuri. 1. [[pdf]](https://arxiv.org/abs/1907.05431)
@@ -10,12 +12,22 @@ Thinking about + reading + tracking
 
 **Aug 28, 2020:** [Learning Differentiable Programs with Admissible Neural Heuristics](writeups/ShaEtAl20.md) A. Shah, E. Zhan, J. J. Sun, A. Verma, Y. Yue, S. Chaudhuri. 2020. [[pdf]](https://arxiv.org/abs/2007.12101)
 
-**July** Preference-based reinforcement learning (Christiano, Wirth, etc.)
+**July** [Preference-based reinforcement learning](writeups/pref_based_rl.md) (Christiano, Wirth, etc.)
 
 ## To Be Read
-- Pietros paper on fairness
-- mirror descent
+- related to PROPEL:
+    - [HOUDINI: Lifelong Learning as Program Synthesis](https://arxiv.org/abs/1804.00218)
+    - [An inductive synthesis framework for verifiable reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3314221.3314638)
+- related to other:
+    - [graphics from hand drawn images](https://arxiv.org/pdf/1707.09627)
+    - [program synthesis](https://arxiv.org/pdf/1901.08565.pdf)
+    - Rajeev Alur, Rastislav Bod´ık, Garvit Juniwal, Milo M. K. Martin, Mukund Raghothaman, Sanjit A. Seshia, Rishabh Singh, Armando Solar-Lezama, Emina Torlak, and Abhishek Udupa. Syntax-guided synthesis. In Formal Methods in Computer-Aided Design, FMCAD, pages 1–17, 2013; 
+    - Alexander L. Gaunt, Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow. Terpret: A probabilistic programming language for program induction. CoRR, abs/1608.04428, 2016.
+    - [16] Sumit Gulwani, Oleksandr Polozov, and Rishabh Singh. Program synthesis. Foundations and
+Trends in Programming Languages, 4(1-2):1–119, 2017
+- [delayed fairness](https://arxiv.org/pdf/1803.04383.pdf)
 -  DDPG, TRPO
+- [A Reductions Approach to Fair Classification](https://arxiv.org/abs/1803.02453) yisong likes
 
 ## HTML symbols
 - [math](https://www.w3schools.com/charsets/ref_utf_math.asp)

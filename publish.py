@@ -31,7 +31,8 @@ def main():
 	try:
 		all_nums = re.findall(r'\d+', writeup[2])
 
-		year = all_nums[-1]
+		year = all_nums[-2]
+		cite = all_nums[-1]
 	except:
 		pdb.set_trace()
 		raise ValueError('Year must end with digits, e.g. "2014."')
@@ -80,8 +81,8 @@ def main():
 				short_name = '%s. %s' % (first[0], ' '.join(names[1:]))
 				authors_lst_short.append(short_name)
 			authors_short = ', '.join(authors_lst_short)
-			new_line = '**%s:** [%s](%s) %s%s. [[pdf]](%s)' % (
-				date, title, md_fname, authors_short, str(year), url
+			new_line = '**%s:** [%s](%s) %s%s. %d cites. [[pdf]](%s)' % (
+				date, title, md_fname, authors_short, str(year), int(cite), url
 				)
 			g.write(new_line + '\n')
 			g.write('\n')
@@ -101,11 +102,6 @@ def main():
 		print 'Failed to download: %s' % url
 	print 'Updated README.md'
 	print 'Downloaded PDF file in %s' % pdf_fname
-	# print title
-	# print url
-
-	# rename today.md (md title)
-	# Add info to readme (authors, title, md title, URL, date)
 
 def download_file(download_url, fname):
     response = urllib2.urlopen(download_url)
