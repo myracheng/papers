@@ -105,7 +105,7 @@ def main():
 
 def download_file(download_url, fname):
     response = urllib2.urlopen(download_url)
-    file = open("%s.pdf" % fname, 'wb')
+    file = open("%s" % fname, 'wb')
     file.write(response.read())
     file.close()
     print("Completed")

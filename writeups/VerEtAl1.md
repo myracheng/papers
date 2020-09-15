@@ -2,11 +2,7 @@
 
 Abhinav Verma, Hoang M. Le, Yisong Yue, Swarat Chaudhuri. [Imitation-Projected Programmatic Reinforcement Learning](https://arxiv.org/abs/1907.05431) NeurIPS 2019. 1 cite.
 
-
-## tl;dr
- - Takeaway 1
- - Takeaway 2
- - Open question or critique
+neural turing machine: differentiable computer, trained by gradient descent
 
 ## Contributions
 This paper presents a meta-algorithm called Propel that performs optimization in policy space to ultimately learn a policy as a program. This optimization is solved using mirror descent, by taking a gradient step in an unconstrianed space and then projecting back onto the constrained space. The unconstrained space has both neural and programmatic representations. The projection step is done using imitation learning. This paper has theoreitical convergence results as well as empirical evaluation.
