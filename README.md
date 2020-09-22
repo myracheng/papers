@@ -2,6 +2,8 @@
 Thinking about + reading + tracking
 
 ## Papers
+**Sep 21, 2020:** [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.](writeups/BuoGeb18.md) J. Buolamwini, T. Gebru. 2018. 905 cites. [[pdf]](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+
 **Sep 15, 2020:** [Data Feminism.](writeups/DIgKle20.md) C. D'Ignazio, L. Klein. 2020. [[pdf]](https://mutabit.com/repos.fossil/datafem/uv/datafem.pdf)
 
 **Sep 11, 2020:** [Deterministic Policy Gradient Algorithms.](writeups/SilEtAl14.md) D. Silver, G. Lever, N. Heess, T. Degris, D. Wierstra, M. Riedmiller. 2014. 1554 cites. [[pdf]](http://proceedings.mlr.press/v32/silver14.pdf)
@@ -19,6 +21,7 @@ Thinking about + reading + tracking
 **July** [Preference-based reinforcement learning](writeups/pref_based_rl.md) (Christiano, Wirth, etc.)
 
 ## To Be Read
+- find related to gender shades
 - related to PROPEL:
     - [An inductive synthesis framework for verifiable reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3314221.3314638)
 - related to other:
