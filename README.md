@@ -2,6 +2,8 @@
 Thinking about + reading + tracking
 
 ## Papers
+**Oct 05, 2020:** [GenProg: A Generic Method for Automatic Software Repair](writeups/GouNguFor12.md) C. Le Goues, T. Nguyen, S. Forrest. 2012. 700 cites. [[pdf]](https://squareslab.github.io/papers-repo/pdfs/weimer-tse2012-genprog.pdf)
+
 **Sep 21, 2020:** [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.](writeups/BuoGeb18.md) J. Buolamwini, T. Gebru. 2018. 905 cites. [[pdf]](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
 **Sep 15, 2020:** [Data Feminism.](writeups/DIgKle20.md) C. D'Ignazio, L. Klein. 2020. [[pdf]](https://mutabit.com/repos.fossil/datafem/uv/datafem.pdf)
@@ -21,12 +23,13 @@ Thinking about + reading + tracking
 **July** [Preference-based reinforcement learning](writeups/pref_based_rl.md) (Christiano, Wirth, etc.)
 
 ## To Be Read
+- Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation https://arxiv.org/pdf/1911.11834.pdf
 - find related to gender shades
 - related to PROPEL:
     - [An inductive synthesis framework for verifiable reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3314221.3314638)
 - related to other:
     - [graphics from hand drawn images](https://arxiv.org/pdf/1707.09627)
-    - [program synthesis](https://arxiv.org/pdf/1901.08565.pdf)
+    - [program synthesis](https://arxiv.org/pdf/1901.08565.pdf) 
     - Rajeev Alur, Rastislav Bod´ık, Garvit Juniwal, Milo M. K. Martin, Mukund Raghothaman, Sanjit A. Seshia, Rishabh Singh, Armando Solar-Lezama, Emina Torlak, and Abhishek Udupa. Syntax-guided synthesis. In Formal Methods in Computer-Aided Design, FMCAD, pages 1–17, 2013; 
     - Alexander L. Gaunt, Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow. Terpret: A probabilistic programming language for program induction. CoRR, abs/1608.04428, 2016.
     - [16] Sumit Gulwani, Oleksandr Polozov, and Rishabh Singh. Program synthesis. Foundations and Trends in Programming Languages, 4(1-2):1–119, 2017
