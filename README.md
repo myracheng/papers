@@ -1,7 +1,9 @@
 # Academic papers
-Thinking about + reading + tracking
+Thinking about + reading + tracking. QQ denotes questions I have, MC (my initials) denotes other comments
 
 ## Papers
+**Oct 11, 2020:** [A General Large Neighborhood Search Framework for Solving Integer Linear Programs](writeups/SonEtAl20.md) J. Song, R. Lanka, Y. Yue, B. Dilkina. 2020. 0 cites. [[pdf]](https://arxiv.org/abs/2004.00422)
+
 **Oct 05, 2020:** [GenProg: A Generic Method for Automatic Software Repair](writeups/GouNguFor12.md) C. Le Goues, T. Nguyen, S. Forrest. 2012. 700 cites. [[pdf]](https://squareslab.github.io/papers-repo/pdfs/weimer-tse2012-genprog.pdf)
 
 **Sep 21, 2020:** [Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification.](writeups/BuoGeb18.md) J. Buolamwini, T. Gebru. 2018. 905 cites. [[pdf]](http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
@@ -24,7 +26,6 @@ Thinking about + reading + tracking
 
 ## To Be Read
 - Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation https://arxiv.org/pdf/1911.11834.pdf
-- find related to gender shades
 - related to PROPEL:
     - [An inductive synthesis framework for verifiable reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3314221.3314638)
 - related to other:
