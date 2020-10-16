@@ -7,7 +7,7 @@ Jialin Song, Ravi Lanka, Yisong Yue, Bistra Dilkina. [A General Large Neighborho
     - iteratively choose subset of variables to optimize, fix the rest
         - even randomly doing this works better than not QQ why??
 
-## introduction +related work
+## introduction + related work
 - typical approach for combinatorial problems and learning good params for their algorithms is ``learning to search``: take existing template, replace hard-coded part with parametrizable version
     - e.g. branch and bound to pick. often trained using reinforcement/imitation learning
     - other approaches: optimize parameters for each problem (`algorithm configuration`), learninng to predict subtructures (but this makes a lot of assumptions about structure, which we dont need)
@@ -32,7 +32,7 @@ QQ uhh what is this section for?
 
 ## empirical results
 - for RL, sample 5 trajectories. for IL, sample 5 random and use the best one as decomposition
-- hyperparameter: number of subsets to divide the variables into, and how long to solve each problem
+- hyperparameter: number of subsets to divide the variables into (2-5), and how long to solve each problem
 - all variants significantly outperform Gurobi, much faster
 - imitation learning based are better than random and RL
 

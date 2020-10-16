@@ -2,6 +2,10 @@
 Thinking about + reading + tracking. QQ denotes questions I have, MC (my initials) denotes other comments
 
 ## Papers
+**Oct 16, 2020:** [Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples](writeups/KalEtAl18.md) A. Kalyan, A. Mohta, O. Polozov, D. Batra, P. Jain, S. Gulwani. 2018. 56 cites. [[pdf]](https://arxiv.org/pdf/1804.01186)
+
+**Oct 16, 2020:** [Learning Syntactic Program Transformations from Examples.](writeups/RolEtAl17.md) R. Rolim, G. Soares, L. D’Antoni, O. Polozov, S. Gulwani, R. Gheyi∗,Ryo Suzukik, B. Hartmann. 2017. 100 cites. [[pdf]](http://pages.cs.wisc.edu/~loris/papers/icse17.pdf)
+
 **Oct 11, 2020:** [A General Large Neighborhood Search Framework for Solving Integer Linear Programs](writeups/SonEtAl20.md) J. Song, R. Lanka, Y. Yue, B. Dilkina. 2020. 0 cites. [[pdf]](https://arxiv.org/abs/2004.00422)
 
 **Oct 05, 2020:** [GenProg: A Generic Method for Automatic Software Repair](writeups/GouNguFor12.md) C. Le Goues, T. Nguyen, S. Forrest. 2012. 700 cites. [[pdf]](https://squareslab.github.io/papers-repo/pdfs/weimer-tse2012-genprog.pdf)
@@ -25,6 +29,10 @@ Thinking about + reading + tracking. QQ denotes questions I have, MC (my initial
 **July** [Preference-based reinforcement learning](writeups/pref_based_rl.md) (Christiano, Wirth, etc.)
 
 ## To Be Read
+- seminal works:
+    -  Matko Bosnjak, Tim Rocktäschel, Jason Naradowsky, and Sebastian Riedel. Programming with a differentiable Forth interpreter.
+    - http://arxiv.org/abs/1608.04428
+- parisotto et al r3nn
 - Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation https://arxiv.org/pdf/1911.11834.pdf
 - related to PROPEL:
     - [An inductive synthesis framework for verifiable reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3314221.3314638)
