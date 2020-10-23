@@ -2,6 +2,8 @@
 Thinking about + reading + tracking. QQ denotes questions I have, MC (my initials) denotes other comments
 
 ## Papers
+**Oct 23, 2020:** [Execution-Guided Neural Program Synthesis.](writeups/CheLiuSon19.md) X. Chen, C. Liu, D. Song. 2019. 27 cites. [[pdf]](https://openreview.net/pdf?id=H1gfOiAqYm)
+
 **Oct 22, 2020:** [Learning to Infer Graphics Programs from Hand-Drawn Images.](writeups/EllEtAl17.md) K. Ellis, D. Ritchie, A. Solar-Lezama, J. B. Tenenbaum. 2017. 99 cites. [[pdf]](https://arxiv.org/pdf/1707.09627.pdf)
 
 **Oct 22, 2020:** [DeepCoder: Learning to Write Programs.](writeups/BalEtAl17.md) M. Balog, A. L. Gaunt, M. Brockschmidt, S. Nowozin, D. Tarlow. 2017. 290 cites. [[pdf]](https://arxiv.org/pdf/1611.01989.pdf)

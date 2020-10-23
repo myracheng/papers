@@ -113,3 +113,12 @@ run candidate program on test inputs and compute distance between outputs.
 define stationary ddistribution in terms of a cost function, e.g. # of examples that it got wrong (want to capture almost ocrrect)
 
 so question becomes how do we learn J and define \pi?
+
+- basically, metropolish hastings is a search using monte carlo, where we have a stationary policy that measures how good programs are (so like a cost function) and a proposal distribution (which can be modeled probabilistically)
+
+the thing were searching for is the probabilistic distribution.
+
+proposal distribution is a transition kernel to move between different states.
+
+MH algo: (https://stephens999.github.io/fiveMinuteStats/MH_intro.html)
+initialize x. sample y from proposal distribution Q(y|x_t.) now y is a ``proposed`` value for x_t+1. compute acceptance probability A. with this probability accept it, otherwise, keep it there.
