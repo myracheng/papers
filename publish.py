@@ -56,7 +56,7 @@ def main():
 	g.writelines(writeup)
 	g.close()
 
-	print 'Wrote file to %s' % md_fname
+	print('Wrote file to %s' % md_fname)
 
 	title = re.findall('\[(.*?)\]', info_line)[0]
 	url = re.findall('\((.*?)\)', info_line)[0]
@@ -99,9 +99,9 @@ def main():
 	try:
 		download_file(url, pdf_fname)
 	except:
-		print 'Failed to download: %s' % url
-	print 'Updated README.md'
-	print 'Downloaded PDF file in %s' % pdf_fname
+		print('Failed to download: %s' % url)
+	print('Updated README.md')
+	print('Downloaded PDF file in %s' % pdf_fname)
 
 def download_file(download_url, fname):
     response = urllib2.urlopen(download_url)

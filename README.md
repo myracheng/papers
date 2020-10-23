@@ -2,6 +2,12 @@
 Thinking about + reading + tracking. QQ denotes questions I have, MC (my initials) denotes other comments
 
 ## Papers
+**Oct 22, 2020:** [Learning to Infer Graphics Programs from Hand-Drawn Images.](writeups/EllEtAl17.md) K. Ellis, D. Ritchie, A. Solar-Lezama, J. B. Tenenbaum. 2017. 99 cites. [[pdf]](https://arxiv.org/pdf/1707.09627.pdf)
+
+**Oct 22, 2020:** [DeepCoder: Learning to Write Programs.](writeups/BalEtAl17.md) M. Balog, A. L. Gaunt, M. Brockschmidt, S. Nowozin, D. Tarlow. 2017. 290 cites. [[pdf]](https://arxiv.org/pdf/1611.01989.pdf)
+
+**Oct 22, 2020:** [MetaLearning MCMC Proposals.](writeups/WanEtAl18.md) T. Wang, Y. Wu, D. A. Moore, S. J. Russell. 2018. 12 cites. [[pdf]](https://arxiv.org/pdf/1708.06040.pdf)
+
 **Oct 16, 2020:** [Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples](writeups/KalEtAl18.md) A. Kalyan, A. Mohta, O. Polozov, D. Batra, P. Jain, S. Gulwani. 2018. 56 cites. [[pdf]](https://arxiv.org/pdf/1804.01186)
 
 **Oct 16, 2020:** [Learning Syntactic Program Transformations from Examples.](writeups/RolEtAl17.md) R. Rolim, G. Soares, L. D’Antoni, O. Polozov, S. Gulwani, R. Gheyi∗,Ryo Suzukik, B. Hartmann. 2017. 100 cites. [[pdf]](http://pages.cs.wisc.edu/~loris/papers/icse17.pdf)
@@ -37,7 +43,6 @@ Thinking about + reading + tracking. QQ denotes questions I have, MC (my initial
 - related to PROPEL:
     - [An inductive synthesis framework for verifiable reinforcement learning](https://dl.acm.org/doi/pdf/10.1145/3314221.3314638)
 - related to other:
-    - [graphics from hand drawn images](https://arxiv.org/pdf/1707.09627)
     - [program synthesis](https://arxiv.org/pdf/1901.08565.pdf) 
     - Rajeev Alur, Rastislav Bod´ık, Garvit Juniwal, Milo M. K. Martin, Mukund Raghothaman, Sanjit A. Seshia, Rishabh Singh, Armando Solar-Lezama, Emina Torlak, and Abhishek Udupa. Syntax-guided synthesis. In Formal Methods in Computer-Aided Design, FMCAD, pages 1–17, 2013; 
     - Alexander L. Gaunt, Marc Brockschmidt, Rishabh Singh, Nate Kushman, Pushmeet Kohli, Jonathan Taylor, and Daniel Tarlow. Terpret: A probabilistic programming language for program induction. CoRR, abs/1608.04428, 2016.
