@@ -2,6 +2,8 @@
 Thinking about + reading + tracking. QQ denotes questions I have, MC (my initials) denotes other comments
 
 ## Papers
+**Nov 07, 2020:** [Hierarchical Imitation and Reinforcement Learning](writeups/LeEtAl18.md) H. M. Le, N. Jiang, A. Agarwal, M. Dudík, Y. Yue, H. Daumé III. 2018. 68 cites. [[pdf]](https://arxiv.org/pdf/1803.00590.pdf)
+
 **Oct 23, 2020:** [Execution-Guided Neural Program Synthesis.](writeups/CheLiuSon19.md) X. Chen, C. Liu, D. Song. 2019. 27 cites. [[pdf]](https://openreview.net/pdf?id=H1gfOiAqYm)
 
 **Oct 22, 2020:** [Learning to Infer Graphics Programs from Hand-Drawn Images.](writeups/EllEtAl17.md) K. Ellis, D. Ritchie, A. Solar-Lezama, J. B. Tenenbaum. 2017. 99 cites. [[pdf]](https://arxiv.org/pdf/1707.09627.pdf)
